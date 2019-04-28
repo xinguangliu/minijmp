@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on 竟新</title>
+    <link>/./team/</link>
+    <description>Recent content in Team on 竟新</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate>
+    
+	<atom:link href="/./team/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>李立庚/Kevin Li</title>
+      <link>/./team/kevin/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/./team/kevin/</guid>
+      <description> 职业发展七星方法论教练
+ Lean Management 资深顾问
+ Six Sigma SBTI认证黑带大师
+ C.P.M 注册采购经理
+ PMP 注册项目管理专家
+ DFSS-CDOC咨询顾问
+ 17年大型欧美制造企业工作经验，历任采购工程师、商品经理，采购经理，全球供应经理，事业部采购负责人。
+  </description>
+    </item>
+    
+    <item>
+      <title>肖德华/Sean Xiao</title>
+      <link>/./team/xiao/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/./team/xiao/</guid>
+      <description> 职业发展五星方法论教练
+ Lean Management 资深顾问
+ Six Sigma SBTI/三星认证黑带大师
+ Lean Design 官方授权认证讲师
+ DFSS-CDOC 资深顾问
+ 竞新职业发展知识体系原创者
+  </description>
+    </item>
+    
+    <item>
+      <title>刘心广/Max Liu</title>
+      <link>/./team/lxg/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>/./team/lxg/</guid>
+      <description> 职业发展信息化技能教练
+ 中国科学院博士、高级工程师
+ IEEE会员, 美国质量协会ASQ高级会员, CRE/CQE/CSSBB
+ 擅长机器学习和人工智能算法研究，推动提升工业质量大数据的分析和应用，实现数据的信息化和价值化。目前主攻工业领域大数据分析、智能算法和应用整合的数字化一体解决方案。
+  </description>
+    </item>
+    
+  </channel>
+</rss>

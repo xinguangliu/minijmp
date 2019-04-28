@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on 竟新</title>
+    <link>/./services/</link>
+    <description>Recent content in Services on 竟新</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="/./services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1-品牌方法论介绍</title>
+      <link>/./services/fangfalun/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/./services/fangfalun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-职业规划方法论介绍</title>
+      <link>/./services/zhiyeguihua/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/./services/zhiyeguihua/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
